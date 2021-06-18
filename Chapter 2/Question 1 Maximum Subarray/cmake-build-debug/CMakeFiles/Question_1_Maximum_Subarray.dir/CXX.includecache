@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/NDHU Courses/Algorithms/Chapter 2/Question 1 Maximum Subarray/main.cpp
+iostream
+-
+algorithm
+-
+vector
+-
+
