@@ -7,6 +7,14 @@
 #IncludeRegexTransform: 
 
 C:/Users/toby0/Downloads/NDHU-Algorithm-Course/Final Report/Q3 Code/main.cpp
-bits/stdc++.h
+iostream
+-
+vector
+-
+stack
+-
+string
+-
+sstream
 -
 
