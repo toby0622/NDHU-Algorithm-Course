@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/toby0/Downloads/NDHU-Algorithm-Course/Final Report/Q1-3 Code/main.cpp
+iostream
+-
+cstring
+-
+vector
+-
+cmath
+-
+
