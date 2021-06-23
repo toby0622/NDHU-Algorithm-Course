@@ -1,0 +1,3 @@
+C:/Users/toby0/Downloads/NDHU-Algorithm-Course/Final Report/Q1-1 Code/cmake-build-debug/CMakeFiles/Q1_1_Code.dir
+C:/Users/toby0/Downloads/NDHU-Algorithm-Course/Final Report/Q1-1 Code/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/toby0/Downloads/NDHU-Algorithm-Course/Final Report/Q1-1 Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir

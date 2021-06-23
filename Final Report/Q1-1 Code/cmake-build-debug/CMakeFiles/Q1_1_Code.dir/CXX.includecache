@@ -6,13 +6,17 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/toby0/Downloads/NDHU-Algorithm-Course/Final Report/Q1-3 Code/main.cpp
+C:/Users/toby0/Downloads/NDHU-Algorithm-Course/Final Report/Q1-1 Code/main.cpp
 iostream
 -
-vector
+fstream
+-
+string
 -
 cmath
 -
-cstring
+ctime
+-
+cfloat
 -
 
