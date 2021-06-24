@@ -9,10 +9,16 @@
 C:/Users/toby0/Downloads/NDHU-Algorithm-Course/Final Report/Q2 Code/main.cpp
 iostream
 -
+cstdlib
+-
 vector
 -
-map
+algorithm
+-
+cstring
 -
 cmath
+-
+ctime
 -
 

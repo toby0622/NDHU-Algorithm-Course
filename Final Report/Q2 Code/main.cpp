@@ -79,7 +79,6 @@ void findMinRoute(vector<vector<double>> &distance) {
     cout << sum << endl;
 }
 
-// Driver Code
 int main() {
     vector<city> cities(N);
 
