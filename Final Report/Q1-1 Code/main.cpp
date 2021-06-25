@@ -140,7 +140,6 @@ public:
     int Choose();
     // move to the next node
     void MoveToNextCity(int nextCity);
-
 };
 
 // start the searching progress
